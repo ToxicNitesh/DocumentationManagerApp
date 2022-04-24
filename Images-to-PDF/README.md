@@ -1,4 +1,4 @@
-# Images To PDF
+# Documentataion Manager App
 
 ### Features 
 - Create PDF from multiple images from camera or gallery
